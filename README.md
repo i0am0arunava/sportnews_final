@@ -42,3 +42,7 @@ To better understand our users and their needs, we've identified two personas:
 3. Install dependencies: `npm install`
 4. Start the development server: `npm start`
 5. Access the application in your browser at `http://localhost:3000`
+
+
+![signin](https://github.com/i0am0arunava/sportnews_final/assets/141677292/2e864335-9ffc-42d5-818a-0572aa74a3cf)
+
