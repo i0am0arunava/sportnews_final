@@ -7,6 +7,7 @@ Welcome to the Sports News and Scores Dashboard project! This web application al
 ### 1. Browse Sports News
 - Users can access a wide range of sports news articles.
 - They can filter news articles based on categories such as soccer, basketball, tennis, etc.
+- Able to listin the article using microphone 
 - Search functionality allows users to find specific articles by keywords or topics.
 
 ### 2. View Live Scores
@@ -41,11 +42,3 @@ To better understand our users and their needs, we've identified two personas:
 3. Install dependencies: `npm install`
 4. Start the development server: `npm start`
 5. Access the application in your browser at `http://localhost:3000`
-
-## Credits
-This project was developed as part of the final capstone project for a React course. Credits to the course instructors and mentors for guidance and support.
-
-## Feedback
-We welcome any feedback or suggestions for improving the Sports News and Scores Dashboard. Please feel free to open an issue or submit a pull request.
-
-Thank you for using our application! We hope you enjoy staying updated with the latest sports news and scores.
