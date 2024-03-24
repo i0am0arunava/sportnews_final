@@ -43,6 +43,24 @@ To better understand our users and their needs, we've identified two personas:
 4. Start the development server: `npm start`
 5. Access the application in your browser at `http://localhost:3000`
 
+`Demo Screenshot:`
 
+`Signin Page:`
 ![signin](https://github.com/i0am0arunava/sportnews_final/assets/141677292/2e864335-9ffc-42d5-818a-0572aa74a3cf)
+
+`Signup Page:`
+![signup](https://github.com/i0am0arunava/sportnews_final/assets/141677292/4214fb3d-677c-4d31-87f4-eb2589f1c544)
+
+`Dashboard:`
+![dashboard](https://github.com/i0am0arunava/sportnews_final/assets/141677292/2b33121a-48a2-4842-9ae2-45d03a1a59f5)
+
+`article listining feature`
+![audiolis](https://github.com/i0am0arunava/sportnews_final/assets/141677292/f0c93c3a-47da-495d-b808-de2cf6797d1d)
+`article reading feature`
+![artread](https://github.com/i0am0arunava/sportnews_final/assets/141677292/e0533ac7-f41c-4bfe-8b4b-6e86fffd028d)
+`preferance screen`
+![pref](https://github.com/i0am0arunava/sportnews_final/assets/141677292/463b2ed9-a245-4b1b-8c1f-64d9a42b9667)
+
+# Live App Link : [https://fascinating-gaufre-425a30.netlify.app/](https://fascinating-gaufre-425a30.netlify.app/)
+
 
