@@ -54,10 +54,9 @@ To better understand our users and their needs, we've identified two personas:
 `Dashboard:`
 ![dashboard](https://github.com/i0am0arunava/sportnews_final/assets/141677292/2b33121a-48a2-4842-9ae2-45d03a1a59f5)
 
-`article listining feature`
-![audiolis](https://github.com/i0am0arunava/sportnews_final/assets/141677292/f0c93c3a-47da-495d-b808-de2cf6797d1d)
 `article reading feature`
 ![artread](https://github.com/i0am0arunava/sportnews_final/assets/141677292/e0533ac7-f41c-4bfe-8b4b-6e86fffd028d)
+
 `preferance screen`
 ![pref](https://github.com/i0am0arunava/sportnews_final/assets/141677292/463b2ed9-a245-4b1b-8c1f-64d9a42b9667)
 
