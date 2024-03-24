@@ -1,30 +1,51 @@
-# React + TypeScript + Vite
+# Sports News and Scores Dashboard
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## Overview
+Welcome to the Sports News and Scores Dashboard project! This web application allows users to browse sports news articles, view live scores for various sports, and personalize their dashboard based on their preferences. Whether you're a passionate sports enthusiast or a casual user, this app aims to provide you with up-to-date information and an engaging user experience.
 
-Currently, two official plugins are available:
+## Features
+### 1. Browse Sports News
+- Users can access a wide range of sports news articles.
+- They can filter news articles based on categories such as soccer, basketball, tennis, etc.
+- Search functionality allows users to find specific articles by keywords or topics.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+### 2. View Live Scores
+- Users can track live scores for ongoing matches across different sports.
+- Scores are updated in real-time to provide the latest information.
 
-## Expanding the ESLint configuration
+### 3. Personalize Dashboard
+- Users can create an account to personalize their dashboard.
+- They can select their favorite sports or teams to receive tailored news and score updates.
+- Customization options allow users to set preferences according to their interests.
 
-If you are developing a production application, we recommend updating the configuration to enable type aware lint rules:
+## Personas
+To better understand our users and their needs, we've identified two personas:
+1. **Sports Enthusiast:** Passionate about sports, avidly follows news and live matches of favorite sports/teams.
+2. **Casual User:** Has a general interest in sports, accesses news and scores occasionally, may have specific interests.
 
-- Configure the top-level `parserOptions` property like this:
+## Expected Behavior
+- The application should provide a smooth and intuitive user experience.
+- News articles should be displayed in a visually appealing manner, with options for filtering and searching.
+- Live scores should be updated promptly and accurately.
+- Personalization features should be easy to use and customize according to user preferences.
 
-```js
-export default {
-  // other rules...
-  parserOptions: {
-    ecmaVersion: 'latest',
-    sourceType: 'module',
-    project: ['./tsconfig.json', './tsconfig.node.json'],
-    tsconfigRootDir: __dirname,
-  },
-}
-```
+## Technologies Used
+- React: Frontend framework for building dynamic user interfaces.
+- JavaScript/TypeScript: Programming languages for implementing functionality.
+- HTML/CSS: Markup and styling for the frontend.
+- API Integration: Utilizing sports news and scores APIs to fetch data.
 
-- Replace `plugin:@typescript-eslint/recommended` to `plugin:@typescript-eslint/recommended-type-checked` or `plugin:@typescript-eslint/strict-type-checked`
-- Optionally add `plugin:@typescript-eslint/stylistic-type-checked`
-- Install [eslint-plugin-react](https://github.com/jsx-eslint/eslint-plugin-react) and add `plugin:react/recommended` & `plugin:react/jsx-runtime` to the `extends` list
+## Installation
+1. Clone the repository: `git clone https://github.com/your/repository.git`
+2. Navigate to the project directory: `cd sports-news-scores-dashboard`
+3. Install dependencies: `npm install`
+4. Start the development server: `npm start`
+5. Access the application in your browser at `http://localhost:3000`
+
+## Credits
+This project was developed as part of the final capstone project for a React course. Credits to the course instructors and mentors for guidance and support.
+
+## Feedback
+We welcome any feedback or suggestions for improving the Sports News and Scores Dashboard. Please feel free to open an issue or submit a pull request.
+
+Thank you for using our application! We hope you enjoy staying updated with the latest sports news and scores.
