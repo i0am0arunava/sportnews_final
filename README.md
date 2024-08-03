@@ -1,6 +1,6 @@
 # Sports News and Scores Dashboard
 
-## Overview
+## Overview of my application
 Welcome to the Sports News and Scores Dashboard project! This web application allows users to browse sports news articles, view live scores for various sports, and personalize their dashboard based on their preferences. Whether you're a passionate sports enthusiast or a casual user, this app aims to provide you with up-to-date information and an engaging user experience.
 line added by code1
 Line added by code2
